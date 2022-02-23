@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## 欢迎来到槟阳的艺术工作室！
 
-You can use the [editor on GitHub](https://github.com/han3345/Binyangs-Art-Studio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 我收集一切美和真理。我将我所知道的有趣的小玩意链接如下。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 年轻的力量 
+电脑是近代伟大的科技发明。量子物理学是极前沿的科研方向。
 
-### Markdown
+时代正以前所未有的速度进步。年轻展现出它惊人的力量。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+向您介绍：
+- 电脑能做什么
+- 量子物理
+- python
+- html javascript css
+- git
+- search engine
+- github
+- 网盘
+- numbers pages keynote
+- github
+- apple google microsoft
+- 值得关注的创作者
+- rss rsshub google reader
+- sspai
+- 视频 文章 音频
+- vscode
+- 睡眠 运动 饮食
+- vim
 
-```markdown
-Syntax highlighted code block
+### 史海钩沉
+- 体育
+- 艺术 唱歌跳舞绘画乐器字体
+- 自然光 
 
-# Header 1
-## Header 2
-### Header 3
+## 我自己也会有些小小的想法。同样会记录在这里。
+- 大学生对未来的思考
+- 价值
+- 没有区别
+- 量子物理
+- qq 微信缺乏美但是很有意义
+- 自己的世界
+- 分体键盘
+- 输入法默认英文 键盘配列
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/han3345/Binyangs-Art-Studio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
