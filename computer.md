@@ -1,6 +1,5 @@
-### test link 
-- 电脑能做什么
-- 量子物理
+### 电脑能做什么？写给每个地球人
+总序。
 - python
 - html javascript css
 - git
@@ -8,12 +7,11 @@
 - github
 - 网盘
 - numbers pages keynote
-- github
 - apple google microsoft
 - 值得关注的创作者
 - rss rsshub google reader
-- sspai
+- sspai 等好的网站
 - 视频 文章 音频
 - vscode
-- 睡眠 运动 饮食
 - vim
+- event listener trigger
